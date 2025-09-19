@@ -1,5 +1,5 @@
 class chatbook:
-    def __init__(self):
+    def __init__(self): # this is called self/constructor/dunder method
         self.username = ""
         self.password = ""
         self.loggedin = False
